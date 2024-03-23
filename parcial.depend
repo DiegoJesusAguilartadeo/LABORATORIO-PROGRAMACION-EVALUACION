@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1710631332 source:c:\users\diego\documents\cuadernos\lab progra\evaluacion at23i04002 diego aguilar t8 parcial\parcial\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Fecha.h"
+	"abono.h"
+	"Cliente.h"
+	"cuenta.h"
+
+1710523306 c:\users\diego\documents\cuadernos\lab progra\evaluacion at23i04002 diego aguilar t8 parcial\parcial\fecha.h
+	<string>
+
+1710629359 c:\users\diego\documents\cuadernos\lab progra\evaluacion at23i04002 diego aguilar t8 parcial\parcial\abono.h
+	"Fecha.h"
+	<string.h>
+
+1710523306 c:\users\diego\documents\cuadernos\lab progra\evaluacion at23i04002 diego aguilar t8 parcial\parcial\cliente.h
+	<string.h>
+
+1710630614 c:\users\diego\documents\cuadernos\lab progra\evaluacion at23i04002 diego aguilar t8 parcial\parcial\cuenta.h
+	"Cliente.h"
+	"abono.h"
+	<stdlib.h>
+	<iostream>
+
